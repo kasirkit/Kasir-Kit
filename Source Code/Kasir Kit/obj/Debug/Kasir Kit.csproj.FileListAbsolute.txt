@@ -1,0 +1,84 @@
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.exe.config
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.exe
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.pdb
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.Design.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.Fonts.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Main.resources
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Properties.Resources.resources
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.csproj.GenerateResource.Cache
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.exe
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.pdb
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.xml
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.xml
+c:\users\lee yurani\documents\visual studio 2015\Projects\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.csprojResolveAssemblyReference.cache
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.exe.config
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.exe
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.pdb
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.exe
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.pdb
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.Design.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\MetroFramework.Fonts.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\System.Data.SQLite.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Main.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Properties.Resources.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.csproj.GenerateResource.Cache
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Login.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Register.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.csprojResolveAssemblyReference.cache
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.JenisBarang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Barang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Choose.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Cash.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Pengaturan.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir_Kit.Tentang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.exe.manifest
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\bin\Debug\Kasir Kit.application
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.exe.manifest
+D:\Karyaku\Project\Coding Project\Kasir Kit\Kasir Kit\obj\Debug\Kasir Kit.application
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\Kasir Kit.exe.config
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.exe
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.pdb
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\Kasir Kit.exe.manifest
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\Kasir Kit.application
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\Kasir Kit.exe
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\Kasir Kit.pdb
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\EntityFramework.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\EntityFramework.SqlServer.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\MetroFramework.Design.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\MetroFramework.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\MetroFramework.Fonts.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\System.Data.SQLite.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\EntityFramework.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\EntityFramework.SqlServer.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\bin\Debug\System.Data.SQLite.xml
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.csprojResolveAssemblyReference.cache
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Barang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Cash.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Choose.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.JenisBarang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Login.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Main.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Pengaturan.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Properties.Resources.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Register.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir_Kit.Tentang.resources
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.csproj.GenerateResource.Cache
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.exe.manifest
+D:\Karyaku\Project\Coding Project\Kasir Kit\Source Code\Kasir Kit\obj\Debug\Kasir Kit.application
