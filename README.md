@@ -1,5 +1,6 @@
 # Kasir-Kit - The Best Code to Learn How Cashier Application Works
-<img src="https://kasirkit.github.io/img/mb2.png">
-<p>Default Account</p>
-<p>Username: yusriltakeuchi</p>
-<p>Password: 62569621144</p>
+<center><img src="https://kasirkit.github.io/img/mb2.png"></center>
+<br />
+<br />Default Account
+<br /><b>Username:</b> yusriltakeuchi
+<br /><b>Password:</b> 62569621144
